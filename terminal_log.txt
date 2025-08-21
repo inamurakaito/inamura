@@ -1,0 +1,10 @@
+Script started on Sat Aug  2 18:37:41 2025
+[1m[7m%[27m[1m[0m                                                                                                       ]7;file://MacBook-Pro-M4-Pro.local/Applications/MAMP/htdocs/inamura[0m[27m[24m[Jinamurakaito@MacBook-Pro-M4-Pro inamura % [K[?2004h[7mexit[27m[27me[27mx[27mi[27mt[?2004l
+
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+Deleting expired sessions...       2 completed.
+
+Script done on Sat Aug  2 18:38:09 2025
